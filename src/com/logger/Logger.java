@@ -3,6 +3,7 @@ package com.logger;
 import com.enums.LogLevel;
 
 public class Logger {
+    
     static Logger instance = null;
 
     private Logger() {
