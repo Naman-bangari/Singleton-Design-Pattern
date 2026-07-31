@@ -13,5 +13,7 @@ public class Main {
         logger.log(LogLevel.WARNING, "Memory Usage High");
 
         logger.log(LogLevel.ERROR, "Database Connection Failed");
+
+        logger.log(LogLevel.DEBUG, "Applicaiton Started under Debug mode");
     }
 }
