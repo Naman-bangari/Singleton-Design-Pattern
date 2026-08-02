@@ -14,6 +14,6 @@ public class Main {
 
         logger.log(LogLevel.ERROR, "Database Connection Failed");
 
-        logger.log(LogLevel.DEBUG, "Applicaiton Started under Debug mode");
+        logger.log(LogLevel.DEBUG, "Applicaiton Started Under Debug mode");
     }
 }
